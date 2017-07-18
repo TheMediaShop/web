@@ -1,0 +1,52 @@
+
+body {
+    background-color: #45848d;
+    font-family: 'filson-soft', sans-serif;
+    font-size: 14px;
+    color: #f1a03e;
+}
+
+a {
+    font-size: 14px;
+    color: #f1a03e;
+}
+
+.header {
+}
+
+.header img {
+    max-height: 400px;
+}
+
+.synop, .synop a {
+    margin-top: 150px;
+    font-size: 25px;
+    text-shadow: -2px 2px 6px black;
+}
+
+.synop .comingsoon {
+    padding-top: 10px;
+    font-size: 55px;
+    text-transform: capitalize;
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+
+}
+
