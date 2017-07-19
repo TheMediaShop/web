@@ -15,11 +15,11 @@ a {
 }
 
 .header img {
-    max-height: 400px;
+    max-height: 650px;
 }
 
 .synop, .synop a {
-    margin-top: 150px;
+    margin-top: 0;
     font-size: 25px;
     text-shadow: -2px 2px 6px black;
 }
